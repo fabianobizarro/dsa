@@ -25,7 +25,7 @@ Personal study repository focused on implementing classic data structures and al
 ## Data Structures
 
 | Data Structure | C# | C | Python | Zig | Go | OCaml | Haskell | Common Lisp |
-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|
 | Dynamic Array | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | Linked List | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | Doubly Linked List | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -54,7 +54,7 @@ Personal study repository focused on implementing classic data structures and al
 ### Sorting
 
 | Algorithm | C# | C | Python | Zig | Go | OCaml | Haskell | Common Lisp |
-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|
 | Bubble Sort | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | Selection Sort | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | Insertion Sort | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -69,7 +69,7 @@ Personal study repository focused on implementing classic data structures and al
 ### Searching
 
 | Algorithm | C# | C | Python | Zig | Go | OCaml | Haskell | Common Lisp |
-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|
 | Linear Search | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | Binary Search | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | Interpolation Search | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -77,7 +77,7 @@ Personal study repository focused on implementing classic data structures and al
 ### Graph
 
 | Algorithm | C# | C | Python | Zig | Go | OCaml | Haskell | Common Lisp |
-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|
 | BFS — Breadth First Search | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | DFS — Depth First Search | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | Dijkstra | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -90,7 +90,7 @@ Personal study repository focused on implementing classic data structures and al
 ### Dynamic Programming
 
 | Algorithm | C# | C | Python | Zig | Go | OCaml | Haskell | Common Lisp |
-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|
 | Fibonacci | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 0/1 Knapsack | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | Coin Change | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -100,14 +100,14 @@ Personal study repository focused on implementing classic data structures and al
 ### String
 
 | Algorithm | C# | C | Python | Zig | Go | OCaml | Haskell | Common Lisp |
-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|
 | KMP | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | Rabin-Karp | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ### Backtracking
 
 | Algorithm | C# | C | Python | Zig | Go | OCaml | Haskell | Common Lisp |
-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|
 | N-Queens | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | Subsets | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | Permutations | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
