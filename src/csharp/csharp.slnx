@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/cli/">
+    <Project Path="cli/Graph/Graph.csproj" />
+    <Project Path="cli/queue/queue.csproj" />
+    <Project Path="cli/stack/stack.csproj" />
+  </Folder>
+  <Project Path="algorithms/algorithms.csproj" />
+  <Project Path="datastructures/datastructures.csproj" />
+</Solution>
