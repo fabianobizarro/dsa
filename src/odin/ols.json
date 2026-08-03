@@ -3,7 +3,7 @@
   "collections": [
     {
       "name": "ds",
-      "path": "./datastructures"
+      "path": "."
     }
   ],
   "enable_semantic_tokens": true,
