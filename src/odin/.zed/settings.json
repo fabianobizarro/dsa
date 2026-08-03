@@ -29,7 +29,7 @@
         "profiles": [
           {
             "name": "default",
-            "checker_path": ["."]
+            "checker_path": ["cli"]
           }
         ]
       }

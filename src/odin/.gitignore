@@ -9,9 +9,11 @@
 *.exe
 *.pdb
 
-# Default output binary name (matches project directory name)
+# Default output binary names
 datastructures
 datastructures.exe
+cli/cli
+cli/cli.exe
 
 # Editor / OS
 .DS_Store
