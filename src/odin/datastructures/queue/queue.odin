@@ -1,4 +1,4 @@
-package datastructures
+package queue
 
 Queue :: struct {
 	head: ^Node,

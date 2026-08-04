@@ -1,26 +1,2 @@
-# Odin build artifacts
-*.obj
-*.o
-*.a
-*.lib
-*.dylib
-*.so
-*.dll
-*.exe
-*.pdb
 
-# Default output binary names
-datastructures
-datastructures.exe
-cli/cli
-cli/cli.exe
-
-# Editor / OS
-.DS_Store
-.vscode/
-.idea/
-
-# Temporary files
-*.tmp
-*.swp
-*~
+bin
