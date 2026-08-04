@@ -26,7 +26,7 @@ WriteLine("END");
 return;
 
 
-void PrintQueue(Queue q)
+static void PrintQueue(Queue q)
 {
     if (q.IsEmpty) WriteLine("<EMPTY>");
     Write("START -> ");
